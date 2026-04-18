@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 20 records |
 | Free sample size | 2 records (10.0%) |
-| Last export | 2026-04-08T01:24:46.427351+00:00 |
+| Last export | 2026-04-15T06:53:28.500178+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-cincinnati-metro-oh-ky-in-us-sample-862796/releases/download/sample-latest/beamstation_862796_food_and_drink-us-cincinnatiohkyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
