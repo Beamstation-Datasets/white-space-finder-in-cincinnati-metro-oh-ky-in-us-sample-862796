@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ce795b68-bbc9-4258-b708-a3d3604be6e4",
+  "export_job_id": "9663a75e-a80b-4aa1-9aa8-432547e3c8de",
   "id_short": 862796,
-  "published_at": "2026-04-23T07:13:16Z",
+  "published_at": "2026-04-29T19:40:31Z",
   "repo_name": "white-space-finder-in-cincinnati-metro-oh-ky-in-us-sample-862796",
   "sample_asset_name": "beamstation_862796_food_and_drink-us-cincinnatiohkyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/862796/beamstation_862796_food_and_drink-us-cincinnatiohkyin_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "b4da81a131c16b1749492f167711c5bc6f59b281441341e115922cf30351fe53",
-  "sample_size_bytes": 30787,
-  "total_records": 46
+  "sample_records": 5,
+  "sample_sha256": "1132c4f6dfd588c4ae16b95da9100b80cd5c5461e0ddd2cdc8d144657ff008f4",
+  "sample_size_bytes": 34613,
+  "total_records": 56
 }
